@@ -13,9 +13,7 @@ Solution:
               * Split
               * Scaling
         Step 5: Model creation
-              Totally 5 models created 
               * Support Vector Machine
-              * Logistic Regression
               * Voting Classifier
               * Random Forest
               * XGBoost
