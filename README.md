@@ -7,6 +7,10 @@ Problem statement:
 Solution:
         Step 1: Reading the dataset
         Step 2: Data cleaning
+              * Duplicate
+              * Null vales
+              * Incorrect datatypes
+              * Missing data
         Step 3: Exploratory Data Analysis
         Step 4: Data preprocessing 
               * Encoding
